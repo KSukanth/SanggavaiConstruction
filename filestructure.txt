@@ -49,8 +49,15 @@
             |-- 2.jpeg
             |-- about-1.jpeg
             |-- about-2.jpeg
+            |-- architect-finishing.jpg
             |-- banner-about.jpeg
+            |-- construction-plans.jpg
+            |-- construction-tall.jpg
+            |-- contact-banner.jpg
             |-- contact.jpg
+            |-- home-banner-2.jpg
+            |-- home-banner.jpg
+            |-- modern-interior.jpg
             |-- slide-11.jpeg
             |-- video-banner.jpg
             |-- videobanner.jpg
@@ -89,6 +96,21 @@
         |-- select-icon2.png
         |-- shopping-cart.svg
         |-- start.svg
+        |-- testimonial
+            |-- client
+                |-- 1.jpg
+                |-- 2.jpg
+            |-- img-1.jpg
+            |-- img-2.jpg
+            |-- img-3.jpg
+            |-- img-4.jpg
+            |-- img-5.jpg
+            |-- img-6.png
+            |-- quote-2.svg
+            |-- quote.svg
+            |-- testimonial-bg-2.jpg
+            |-- testimonial-bg-3.jpg
+            |-- testimonial-bg.jpg
         |-- user.svg
     |-- js
         |-- bootstrap.bundle.min.js
@@ -159,6 +181,7 @@
         |-- style.css
         |-- style.css.map
         |-- style.scss
+|-- bliize.zip
 |-- blog-fullwidth.php
 |-- blog-left-sidebar.php
 |-- blog-single-fullwidth.php
@@ -175,6 +198,8 @@
     |-- blog-sidebar.php
     |-- footer.php
     |-- head.php
+    |-- header-five.php
+    |-- header-six.php
     |-- header-topbar-s2.php
     |-- header-topbar.php
     |-- header-two.php

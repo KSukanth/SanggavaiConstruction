@@ -46,7 +46,7 @@
     </div>
 
     <div class="hero-right">
-        <img src="assets/images/home/slide-11.jpeg" alt="Sanggavai Construction">
+        <img src="assets/images/home/home-banner-2.jpg" alt="Sanggavai Construction">
     </div>
 
 </section>
@@ -144,7 +144,7 @@
                 <div class="col-lg-3 col-md-6 col-12 fade_bottom">
                     <div class="service-card">
                         <div class="icon">
-                            <img src="assets/images/service/icon/town1.svg" alt="icon">
+                            <img src="assets/images/home/architect-finishing.jpg" alt="icon">
                         </div>
                         <h2><a href="service-single.php">Joint Venture</a></h2>
                         <p>
@@ -159,7 +159,7 @@
                 <div class="col-lg-3 col-md-6 col-12 fade_bottom">
                     <div class="service-card">
                         <div class="icon">
-                            <img src="assets/images/service/icon/urban-planning1.svg" alt="icon">
+                            <img src="assets/images/home/construction-plans.jpg" alt="icon">
                         </div>
                         <h2><a href="service-single.php">Design & Build</a></h2>
                         <p>
@@ -174,7 +174,7 @@
                 <div class="col-lg-3 col-md-6 col-12 fade_bottom">
                     <div class="service-card">
                         <div class="icon">
-                            <img src="assets/images/service/icon/social-care1.svg" alt="icon">
+                            <img src="assets/images/home/construction-tall.jpg" alt="icon">
                         </div>
                         <h2><a href="service-single.php">Industrial Construction</a></h2>
                         <p>
@@ -189,7 +189,7 @@
                 <div class="col-lg-3 col-md-6 col-12 fade_bottom">
                     <div class="service-card">
                         <div class="icon">
-                            <img src="assets/images/service/icon/planning1.svg" alt="icon">
+                            <img src="assets/images/home/modern-interior.jpg" alt="icon">
                         </div>
                         <h2><a href="service-single.php">Commercial Spaces</a></h2>
                         <p>
@@ -206,26 +206,7 @@
     </div>
 </section>
 
-        <!--===== start wpo-video-section =====-->
-        <section class="wpo-video-section-s2">
-            <h2 class="d-none">itit</h2>
-            <div class="wraper" style="background: url(assets/images/home/video-banner.jpg);">
-                <div class="video-wrap">
-                    <div class="video-holder">
-                        <a href="https://www.youtube.com/embed/uySn1BZiWWs?si=XcM3FYqzlXkJaB0v" class="video-btn"
-                            data-type="iframe">
-                            <svg width="100" height="100" viewBox="0 0 100 100" fill="none">
-                                <circle cx="50" cy="50" r="50" fill="white" />
-                                <path
-                                    d="M65.5 47.4019C67.5 48.5566 67.5 51.4434 65.5 52.5981L44.5 64.7224C42.5 65.8771 40 64.4338 40 62.1244L40 37.8756C40 35.5662 42.5 34.1229 44.5 35.2776L65.5 47.4019Z"
-                                    fill="black" />
-                            </svg>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section>
-
+     
 
         <!--===== start wpo-project-section =====-->
        <section class="wpo-project-section-s10 section-padding">
@@ -448,29 +429,25 @@
 
         <!--===== start wpo-consultaForm-section =====-->
         <section class="wpo-consultaForm-section">
-    <div class="wraper" style="background: url(assets/images/home/contact.jpg);">
+    <div class="wraper" style="background: url(assets/images/home/contact-banner.jpg);">
         <div class="contact">
+            <h2>Get A Free Consultation</h2>
 
-            <h2>Get Free Consultation</h2>
-            <p style="margin-bottom:20px;">
-                Planning to build or develop your property? Get expert guidance from our experienced team.
-            </p>
-
-            <form class="contact-validation-active" onsubmit="sendToWhatsApp(); return false;">
+           <form method="post" class="contact-validation-active" id="consultaForm" onsubmit="return sendToWhatsApp();">
 
                 <div>
                     <label>Full Name*</label>
-                    <input type="text" class="form-control" name="name" id="name" placeholder="Enter your name" required>
+                    <input type="text" class="form-control" name="name" id="name"  required>
                 </div>
 
                 <div>
                     <label>Email Address*</label>
-                    <input type="email" class="form-control" name="email" id="email" placeholder="Enter your email" required>
+                    <input type="email" class="form-control" name="email" id="email"  required>
                 </div>
 
                 <div>
                     <label>Phone Number*</label>
-                    <input type="tel" class="form-control" name="phone" id="phone" placeholder="Enter your phone number" required>
+                    <input type="tel" class="form-control" name="phone" id="phone"  required>
                 </div>
 
                 <div>
@@ -486,19 +463,21 @@
 
                 <div class="fullwidth">
                     <label>Project Requirement</label>
-                    <textarea class="form-control" name="note" id="note" placeholder="Briefly describe your project"></textarea>
+                    <textarea class="form-control" name="note" id="note" placeholder="Describe your project requirement"></textarea>
                 </div>
 
                 <div class="submit-area">
-                    <button type="submit" class="shop-btn">Submit Enquiry</button>
+                   <button type="submit" class="shop-btn">Send Message</button>
                     <div id="loader">
                         <i class="ti-reload"></i>
                     </div>
                 </div>
 
                 <div class="clearfix error-handling-messages">
-                    <div id="success">Thank you! Our team will contact you shortly.</div>
-                    <div id="error">Error occurred while sending enquiry. Please try again.</div>
+                    <div id="success">Thank you</div>
+                    <div id="error">
+                        Error occurred while sending email. Please try again later.
+                    </div>
                 </div>
 
             </form>
@@ -555,23 +534,31 @@
 <script>
 function sendToWhatsApp() {
 
-    var name = document.getElementById("name").value;
-    var email = document.getElementById("email").value;
-    var phone = document.getElementById("phone").value;
+    var name = document.getElementById("name").value.trim();
+    var email = document.getElementById("email").value.trim();
+    var phone = document.getElementById("phone").value.trim();
     var service = document.getElementById("subject").value;
-    var message = document.getElementById("note").value;
+    var message = document.getElementById("note").value.trim();
+
+    // Basic validation
+    if (name === "" || email === "" || phone === "" || service === "") {
+        alert("Please fill all required fields!");
+        return false;
+    }
 
     var whatsappMessage =
-        "Hello, I would like to enquire:\n\n" +
-        "Name: " + name + "\n" +
-        "Email: " + email + "\n" +
-        "Phone: " + phone + "\n" +
-        "Service: " + service + "\n" +
-        "Requirement: " + message;
+        "Hello, I would like to enquire:%0A%0A" +
+        "Full Name: " + name + "%0A" +
+        "Email Address: " + email + "%0A" +
+        "Phone Number: " + phone + "%0A" +
+        "Service: " + service + "%0A" +
+        "Project Requirement: " + message;
 
-    var whatsappURL = "https://wa.me/919150035559?text=" + encodeURIComponent(whatsappMessage);
+    var whatsappURL = "https://wa.me/919150035559?text=" + whatsappMessage;
 
     window.open(whatsappURL, "_blank");
+
+    return false; // prevent form submit
 }
 </script>
 
