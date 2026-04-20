@@ -46,7 +46,7 @@
 
     <!-- Projects -->
     <li class="menu-item-has-children">
-        <a href="projects.php">Projects</a>
+        <a href="#">Projects</a>
         <ul class="sub-menu">
             <li><a href="projects-ongoing.php">Ongoing Projects</a></li>
             <li><a href="projects-completed.php">Completed Projects</a></li>

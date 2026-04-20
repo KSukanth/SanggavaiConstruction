@@ -1,5 +1,6 @@
 |-- 404.php
 |-- about.php
+|-- ar-house.php
 |-- assets
     |-- css
         |-- animate.css
@@ -39,6 +40,8 @@
     |-- images
         |-- ajax-loader.gif
         |-- bottom-arrow.svg
+        |-- career.jpg
+        |-- carrer.jpg
         |-- down-arrow.svg
         |-- error-404.png
         |-- favicon.png
@@ -51,25 +54,29 @@
             |-- about-2.jpeg
             |-- architect-finishing.jpg
             |-- banner-about.jpeg
+            |-- big-city.jpg
+            |-- complted.jpg
             |-- construction-plans.jpg
             |-- construction-tall.jpg
             |-- contact-banner.jpg
             |-- contact.jpg
             |-- home-banner-2.jpg
-            |-- home-banner.jpg
             |-- modern-interior.jpg
-            |-- slide-11.jpeg
             |-- video-banner.jpg
             |-- videobanner.jpg
         |-- icons
+            |-- experience.svg
             |-- home.svg
             |-- house-owner.svg
             |-- industrial.svg
             |-- joint-venture.svg
             |-- market-expansion.svg
+            |-- money.svg
+            |-- planning.svg
             |-- renovation.svg
             |-- sketch.svg
             |-- stats.svg
+            |-- thumbs-up.svg
         |-- left-arrow-2.svg
         |-- left-arrow-white-2.svg
         |-- left-arrow.svg
@@ -78,6 +85,7 @@
         |-- offer-1.png
         |-- offer-2.png
         |-- offer-bg.jpg
+        |-- ongoing.jpg
         |-- preloader-updated.png
         |-- preview-cta-bg.jpg
         |-- project
@@ -86,6 +94,28 @@
             |-- 3.jpeg
             |-- 4.jpeg
             |-- 5.jpeg
+            |-- ARHouse.jpg
+            |-- ARHouse.png
+            |-- Clara Garden (1).png
+            |-- Clara Garden (2).png
+            |-- Clara Garden (3).png
+            |-- Clara Garden (4).png
+            |-- ClaraGarden.jpg
+            |-- ClaraGarden.png
+            |-- IndividualHouse.jpg
+            |-- IndividualHouse.png
+            |-- pearl.jpg
+            |-- pearl.png
+            |-- RaajamGarden (1).png
+            |-- RaajamGarden (3).png
+            |-- RaajamGarden (4).png
+            |-- RaajamGarden (5).png
+            |-- RaajamGarden (6).png
+            |-- RaajamGarden.jpg
+            |-- RaajamGarden.png
+            |-- somaskandan.jpg
+            |-- somaskandan.png
+            |-- WhatsApp.svg
         |-- right-arrow-2.svg
         |-- right-arrow-3.svg
         |-- right-arrow-4.svg
@@ -181,6 +211,21 @@
         |-- style.css
         |-- style.css.map
         |-- style.scss
+|-- award.php
+|-- bliize-classic-architecture-dark.php
+|-- bliize-classic-architecture.php
+|-- bliize-classic-interior-design-dark.php
+|-- bliize-classic-interior-design-s2.php
+|-- bliize-classic-interior-design.php
+|-- bliize-costruction-profile.php
+|-- bliize-costruction-s2.php
+|-- bliize-costruction.php
+|-- bliize-frelancer-architect.php
+|-- bliize-minimal-woocommerce.php
+|-- bliize-modern-architecture-s2.php
+|-- bliize-modern-woocommerce.php
+|-- bliize-renovation.php
+|-- bliize-urban-planning.php
 |-- bliize.zip
 |-- blog-fullwidth.php
 |-- blog-left-sidebar.php
@@ -188,10 +233,13 @@
 |-- blog-single-left-sidebar.php
 |-- blog-single.php
 |-- blog.php
+|-- careers.php
+|-- Clara-Garden.php
 |-- config.php
 |-- contact.php
 |-- forgot.php
 |-- index.php
+|-- Individual-House.php
 |-- login.php
 |-- mail-contact.php
 |-- partials
@@ -200,6 +248,7 @@
     |-- head.php
     |-- header-five.php
     |-- header-six.php
+    |-- header-three.php
     |-- header-topbar-s2.php
     |-- header-topbar.php
     |-- header-two.php
@@ -207,6 +256,7 @@
     |-- page-header.php
     |-- preloader.php
     |-- script.php
+|-- Pearl-House.php
 |-- PHPMailer
     |-- Exception.php
     |-- PHPMailer.php
@@ -215,9 +265,13 @@
 |-- pricing.php
 |-- privacy.php
 |-- project-single.php
+|-- projects-completed.php
+|-- projects-ongoing.php
 |-- projects.php
+|-- Raajam-Garden.php
 |-- register.php
+|-- send-mail.php
 |-- service-single.php
-|-- services.php
+|-- Somaskandan.php
 |-- team.php
 |-- terms.php

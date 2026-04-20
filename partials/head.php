@@ -5,7 +5,7 @@
     <meta name="author" content="wpOceans">
     <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png">
      <!-- Page Title -->
-    <title>Bliize | Architecture Construction Template</title>
+   <title>Sanggavai Constructions | Trusted Builders in Chennai</title>
     <!-- Icon fonts -->
     <link href="assets/css/themify-icons.css" rel="stylesheet">
     <link href="assets/css/flaticon.css" rel="stylesheet">

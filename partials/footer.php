@@ -57,6 +57,7 @@
                             <li><a href="projects.php"><span class="rolling-text">Projects</span></a></li>
                             <li><a href="services.php"><span class="rolling-text">Services</span></a></li>
                             <li><a href="contact.php"><span class="rolling-text">Contact</span></a></li>
+                            <li><a href="blog.php"><span class="rolling-text">Blogs</span></a></li>
                         </ul>
                     </div>
                 </div>
@@ -104,5 +105,34 @@
             </div>
         </div>
     </div>
+
+
+
+<!-- WhatsApp Floating Button -->
+<a href="https://wa.me/919150035559?text=Hi%20Sanggavai%20Constructions,%20I%20am%20interested%20in%20your%20construction%20services.%20Please%20share%20more%20details." target="_blank" class="whatsapp-float">
+    <img src="assets/images/project/WhatsApp.svg" alt="WhatsApp">
+</a>
+<style>
+.whatsapp-float {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 75px;
+    right: 10px;
+    z-index: 1000;
+}
+
+.whatsapp-float img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    transition: transform 0.3s ease;
+}
+
+.whatsapp-float img:hover {
+    transform: scale(1.1);
+}
+</style>
 
 </footer>

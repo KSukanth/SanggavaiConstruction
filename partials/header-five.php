@@ -32,17 +32,12 @@
                                 <a href="about.php">About</a>
                             </li>
 
-                            <!-- Services -->
-                            <li class="menu-item-has-children">
-                                <a href="services.php">Services</a>
-                                <ul class="sub-menu">
-                                    <li><a href="services.php">All Services</a></li>
-                                </ul>
-                            </li>
+                            
+                            
 
                             <!-- Projects -->
                             <li class="menu-item-has-children">
-                                <a href="projects.php">Projects</a>
+                                <a href="#">Projects</a>
                                 <ul class="sub-menu">
                                     <li><a href="projects-ongoing.php">Ongoing Projects</a></li>
                                     <li><a href="projects-completed.php">Completed Projects</a></li>
@@ -54,10 +49,10 @@
                                 <a href="careers.php">Careers</a>
                             </li>
 
-                            <!-- Contact -->
-                            <li>
-                                <a href="contact.php">Contact</a>
+                           <li>
+                                <a href="award.php">Award</a>
                             </li>
+                            
 
                         </ul>
                     </div>

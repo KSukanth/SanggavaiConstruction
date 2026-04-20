@@ -26,24 +26,26 @@
         <!--===== start wpo-hero-slider =====-->
       <section class="wpo-hero-static-s9" style="background: url(assets/images/slider/slide-bg-11.jpg);">
     
-    <div class="content">
-        
-        <h2 class="fade_bottom">
-            <span>Building Excellence for</span> <br>
-            Over 34 Years
-        </h2>
+   <div class="content">
+    
+    <h2 class="fade_bottom">
+        <span>Building Excellence for</span> <br>
+        Over 34 Years
+    </h2>
 
-        <p class="fade_bottom">
-            Sanggavai Construction is a trusted name with 34+ years of experience in the construction field 
-            and 27 years in business. We deliver high-quality, durable, and value-driven construction 
-            solutions with a personalized approach.
-        </p>
+    <p class="fade_bottom">
+       Sanggavai Constructions is a trusted name with 34+ years of experience (27 years in business), delivering high-quality, durable construction with a personalized approach.
+    </p>
 
-        <div class="hero-btn fade_bottom">
-            <a href="contact.php" class="shop-btn">Get Free Consultation</a>
-        </div>
+    <p class="fade_bottom">
+        Our mission is to create unique, long-lasting, and value-driven construction solutions that stand the test of time while exceeding client expectations.
+    </p>
 
+    <div class="hero-btn fade_bottom">
+        <a href="contact.php" class="shop-btn">Get in Touch</a>
     </div>
+
+</div>
 
     <div class="hero-right">
         <img src="assets/images/home/home-banner-2.jpg" alt="Sanggavai Construction">
@@ -53,76 +55,58 @@
 
 <section class="wpo-service-section-s9 section-padding">
     <div class="container-fluid p-0">
-
-        <!-- Title -->
         <div class="title">
             <h2 class="poort-text poort-in-right">Why Choose Us</h2>
             <p class="poort-text poort-in-right">
-                At Sanggavai Construction, we focus on delivering excellence in every aspect 
-                of construction with strong planning, quality execution, and long-term value.
+                At Sanggavai Constructions, we deliver excellence through smart planning, quality execution, and long-term value in every project.
             </p>
         </div>
 
-        <!-- Cards -->
         <div class="service-wrap">
             <div class="row">
 
-                <!-- Item 1 -->
                 <div class="col-lg-3 col-md-6 col-12 fade_bottom">
                     <div class="service-card">
-                      
+                        <div class="icon">
+                            <img src="assets/images/icons/planning.svg"  width="70px" alt="Smart Planning">
+                        </div>
                         <h2>Smart Planning</h2>
-                        <p>
-                            We create well-planned and aesthetically pleasing designs with careful 
-                            attention to detail.
-                        </p>
+                        <p>We create well-planned, functional, and aesthetically pleasing designs with strong attention to detail.</p>
                     </div>
                 </div>
 
-                <!-- Item 2 -->
                 <div class="col-lg-3 col-md-6 col-12 fade_bottom">
                     <div class="service-card">
-                       
+                        <div class="icon">
+                            <img src="assets/images/icons/thumbs-up.svg"  width="70px" alt="Quality Construction">
+                        </div>
                         <h2>Quality Construction</h2>
-                        <p>
-                            We ensure strong, durable, and long-lasting construction using 
-                            high-quality materials and standards.
-                        </p>
+                        <p>We ensure durable, high-quality construction using trusted materials and industry standards.</p>
                     </div>
                 </div>
 
-                <!-- Item 3 -->
                 <div class="col-lg-3 col-md-6 col-12 fade_bottom">
                     <div class="service-card">
-                      
-                        <h2>30+ Years Experience</h2>
-                        <p>
-                            With more than three decades of experience, we bring deep industry 
-                            knowledge to every project.
-                        </p>
+                        <div class="icon">
+                            <img src="assets/images/icons/experience.svg" width="70px" alt="Experience">
+                        </div>
+                        <h2>34+ Years Experience</h2>
+                        <p>With over three decades of expertise, we bring deep industry knowledge to every project we handle.</p>
                     </div>
                 </div>
 
-                <!-- Item 4 -->
                 <div class="col-lg-3 col-md-6 col-12 fade_bottom">
                     <div class="service-card">
-                       
+                        <div class="icon">
+                            <img src="assets/images/icons/money.svg"  width="70px" alt="Cost Effective">
+                        </div>
                         <h2>Cost Effective</h2>
-                        <p>
-                            We provide budget-friendly construction solutions without compromising 
-                            on quality or design.
-                        </p>
+                        <p>We deliver budget-friendly construction solutions without compromising on quality or design.</p>
                     </div>
                 </div>
 
             </div>
         </div>
-
-        <!-- CTA -->
-        <div class="text-center" style="margin-top:40px;">
-            <a href="contact.php" class="theme-btn">Get Free Consultation</a>
-        </div>
-
     </div>
 </section>
         <!--===== start wpo-service-section =====-->
@@ -132,8 +116,8 @@
         <div class="title">
             <h2 class="poort-text poort-in-right">Our Services</h2>
             <p class="poort-text poort-in-right">
-                We provide complete construction solutions with a focus on quality, planning, 
-                and long-term value across residential, commercial, and industrial projects.
+                We deliver end-to-end construction solutions with expertise in joint ventures, 
+                design & build, and commercial developments, ensuring quality, efficiency, and long-term value.
             </p>
         </div>
 
@@ -141,61 +125,45 @@
             <div class="row">
 
                 <!-- Joint Venture -->
-                <div class="col-lg-3 col-md-6 col-12 fade_bottom">
+                <div class="col-lg-4 col-md-6 col-12 fade_bottom">
                     <div class="service-card">
                         <div class="icon">
-                            <img src="assets/images/home/architect-finishing.jpg" alt="icon">
+                            <img src="assets/images/home/architect-finishing.jpg" alt="Joint Venture">
                         </div>
-                        <h2><a href="service-single.php">Joint Venture</a></h2>
+                        <h2><a href="contact.php">Joint Venture</a></h2>
                         <p>
-                            We undertake joint venture projects including development of vacant lands,
-                            family property developments, reconstruction of old buildings, and
-                            redevelopment of apartments to maximize value for property owners.
+                            We undertake joint venture projects including land development, family property development,
+                            reconstruction of old buildings, and apartment redevelopment, ensuring smooth execution 
+                            and maximized value for property owners.
                         </p>
                     </div>
                 </div>
 
                 <!-- Design & Build -->
-                <div class="col-lg-3 col-md-6 col-12 fade_bottom">
+                <div class="col-lg-4 col-md-6 col-12 fade_bottom">
                     <div class="service-card">
                         <div class="icon">
-                            <img src="assets/images/home/construction-plans.jpg" alt="icon">
+                            <img src="assets/images/home/construction-plans.jpg" alt="Design & Build">
                         </div>
-                        <h2><a href="service-single.php">Design & Build</a></h2>
+                        <h2><a href="contact.php">Design & Build</a></h2>
                         <p>
-                            We provide complete end-to-end construction solutions under one roof,
-                            handling everything from design to execution with efficiency,
-                            quality, and timely delivery.
+                            We offer complete end-to-end construction solutions under one roof. From concept and design 
+                            to execution and delivery, we manage every stage efficiently while ensuring quality and 
+                            timely completion.
                         </p>
                     </div>
                 </div>
 
-                <!-- Industrial -->
-                <div class="col-lg-3 col-md-6 col-12 fade_bottom">
+                <!-- Commercial Spaces -->
+                <div class="col-lg-4 col-md-6 col-12 fade_bottom">
                     <div class="service-card">
                         <div class="icon">
-                            <img src="assets/images/home/construction-tall.jpg" alt="icon">
+                            <img src="assets/images/home/modern-interior.jpg" alt="Commercial Spaces">
                         </div>
-                        <h2><a href="service-single.php">Industrial Construction</a></h2>
+                        <h2><a href="contact.php">Commercial Spaces</a></h2>
                         <p>
-                            We specialize in constructing industrial buildings with proper planning
-                            and infrastructure to support heavy equipment, ensuring compliance with
-                            all standards and regulations.
-                        </p>
-                    </div>
-                </div>
-
-                <!-- Commercial -->
-                <div class="col-lg-3 col-md-6 col-12 fade_bottom">
-                    <div class="service-card">
-                        <div class="icon">
-                            <img src="assets/images/home/modern-interior.jpg" alt="icon">
-                        </div>
-                        <h2><a href="service-single.php">Commercial Spaces</a></h2>
-                        <p>
-                            We design and develop commercial buildings such as retail shops and
-                            business spaces with functional layouts that enhance usability and
-                            customer movement.
+                            We design and construct commercial spaces such as retail outlets and business facilities, 
+                            focusing on functionality, efficient layouts, and enhancing overall usability and customer flow.
                         </p>
                     </div>
                 </div>
@@ -205,7 +173,6 @@
 
     </div>
 </section>
-
      
 
         <!--===== start wpo-project-section =====-->
@@ -332,10 +299,14 @@
             </div>
         </section>
 
+
+
         <!--===== start wpo-testimonial-section =====-->
-       <section class="wpo-testimonial-section-s11 section-padding">
+       <section class="wpo-testimonial-section-s11">
     <div class="testimonial-slider-s3 owl-carousel">
 
+
+    
         <!-- Testimonial 1 -->
         <div class="item">
             <div class="content">
@@ -426,6 +397,103 @@
 
     </div>
 </section>
+
+      <section class="wpo-service-section-s9 section-padding">
+    <div class="container-fluid p-0">
+        
+        <div class="title">
+            <h2 class="poort-text poort-in-right">Our Videos</h2>
+            <p class="poort-text poort-in-right">
+                At Sanggavai Constructions, we showcase our real projects, construction quality, and execution standards through our video insights.
+            </p>
+        </div>
+
+       <div class="service-wrap">
+            <div class="row justify-content-center">
+
+                <!-- Video 1 -->
+                <div class="col-lg-6 col-md-6 col-12 fade_bottom">
+                    <div class="service-card-s12 video-card">
+                        <div class="top">
+                            
+                            <div class="video-frame">
+                                <iframe 
+                                    src="https://www.youtube.com/embed/uySn1BZiWWs"
+                                    title="Sanggavai Construction Video"
+                                    allowfullscreen>
+                                </iframe>
+                            </div>
+
+                            <h2>Our Construction Work</h2>
+                            <p>
+                                We present our ongoing and completed projects, highlighting planning, execution, and construction quality.
+                            </p>
+                        </div>
+
+                        <div class="buttom">
+                            <a href="https://www.youtube.com/" target="_blank">Watch on YouTube</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Video 2 -->
+                <div class="col-lg-6 col-md-6 col-12 fade_bottom">
+                    <div class="service-card-s12 video-card">
+                        <div class="top">
+
+                            <div class="video-frame">
+                                <iframe 
+                                    src="https://www.youtube.com/embed/uySn1BZiWWs"
+                                    title="Sanggavai Construction Video"
+                                    allowfullscreen>
+                                </iframe>
+                            </div>
+
+                            <h2>Project Walkthrough</h2>
+                            <p>
+                                Detailed walkthroughs of completed projects focusing on design, durability, and finishing standards.
+                            </p>
+                        </div>
+
+                        <div class="buttom">
+                            <a href="https://www.youtube.com/" target="_blank">Watch on YouTube</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</section>
+
+
+
+<style>
+    .video-frame {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.video-frame iframe {
+    width: 100%;
+    height: 320px;
+    border-radius: 12px;
+    display: block;
+}
+
+.video-card h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 22px;
+}
+
+/* Match service card feel */
+.video-card {
+    padding: 20px;
+    border-radius: 12px;
+}
+</style>
 
         <!--===== start wpo-consultaForm-section =====-->
         <section class="wpo-consultaForm-section">

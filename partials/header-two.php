@@ -187,7 +187,7 @@
                                 <li class="menu-item-has-children">
                                     <a href="#">Projects</a>
                                     <ul class="sub-menu">
-                                        <li><a href="projects.php">Projects</a></li>
+                                        <li><a href="#">Projects</a></li>
                                         <li><a href="project-single.php">Projects Single</a></li>
                                     </ul>
                                 </li>
